@@ -1,0 +1,33 @@
+@import 'bootstrap';
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+body {
+  background: url('257H.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: 'Helvetica Neue', Helvetica;
+  font-weight: 100;
+  font-size: 50px;
+}
+
+p {
+  font-family: 'Indie+Flower';
+  font-weight: 200;
+  font-size: 20px;
+}
+
+.container {
+  width: 350px;
+  margin: 100px auto;
+  background: black;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  color: white;
+  text-align: center;
+  line-height: 1.5em;
+  border-radius: 40px;
+}
